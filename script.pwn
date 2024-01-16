@@ -64,11 +64,7 @@ AskChatGPT(playerid, const text[]) {
         }
     }
 
-    RequestJSONCallback(
-        gClient[playerid],
-        "",
-        HTTP_METHOD_POST,
-        using inline APIResponse,
+    RequestJSONCallback(gClient[playerid], "", HTTP_METHOD_POST, using inline APIResponse,
         JsonObject(
             "model", JsonString(""#API_OPEN_AI_MOD""),
             "messages", JsonArray(
