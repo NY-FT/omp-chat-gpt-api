@@ -60,7 +60,13 @@ AskChatGPT(playerid, const text[]) {
                     JsonGetString(message, "content", content);
                     SendClientMessage(playerid, -1, "ChatGPT: %s", content);
                 }
+
+                JsonCleanup(first);
+                JsonCleanup(message);
             }
+
+            JsonCleanup(node);
+            JsonCleanup(choice);
         }
     }
 
