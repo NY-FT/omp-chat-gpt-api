@@ -58,6 +58,11 @@ AskChatGPT(playerid, const text[]) {
                     ;
 
                     JsonGetString(message, "content", content);
+
+                    /**
+                     * Isso leva um tempo para ser respondido, usar tarefas do PawnPlus pode resolver esse problema para exibir a mensagem toda vez.
+                     */
+
                     SendClientMessage(playerid, -1, "ChatGPT: %s", content);
                 }
             }
