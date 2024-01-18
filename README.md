@@ -3,7 +3,7 @@ Um pequeno código que possibilita conversar com o ChatGPT (`OnPlayerText`) usan
 Vi um vídeo no YouTube que foi postado há 2 semanas (1 dia antes deste repositório) em que "Rave Scripting" fez NPCs terem nomes, idades e atitudes diferentes, e ele conversa com eles a partir disso!
 
 Vídeo inspirado:
-https://www.youtube.com/watch?v=FvoZJdo-gbU
+[(SA-MP/open.mp) Using ChatGPT for NPCs in SAMP](https://www.youtube.com/watch?v=FvoZJdo-gbU)
 
 Vídeo demonstrando:
-https://www.youtube.com/watch?v=nysyzcW9ffU
+[SA-MP/open.mp INTERAÇÃO COM CHAT GPT NO SERVIDOR!](https://www.youtube.com/watch?v=x9VQFjdYwjs)
