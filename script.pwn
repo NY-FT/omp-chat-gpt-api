@@ -1,3 +1,11 @@
+/**
+ * Nunca usei samp-node, por isso optei pelo uso do `pawn-requests`.
+ *
+ * Credits:
+ *    - Southclaws (https://github.com/Southclaws/pawn-requests).
+ *    - Y-Less & Equip `y_inline_requests` (https://github.com/pawn-lang/YSI-Includes).
+ */
+
 #define MAX_PLAYERS (2)
 
 #include <open.mp>
