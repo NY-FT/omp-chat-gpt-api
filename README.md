@@ -6,4 +6,4 @@ Vídeo inspirado:
 [(SA-MP/open.mp) Using ChatGPT for NPCs in SAMP](https://www.youtube.com/watch?v=FvoZJdo-gbU)
 
 Vídeo demonstrando:
-[SA-MP/open.mp INTERAÇÃO COM CHAT GPT NO SERVIDOR!](https://www.youtube.com/watch?v=x9VQFjdYwjs)
+[(SA-MP/open.mp) INTERAÇÃO COM CHAT GPT NO SERVIDOR!](https://www.youtube.com/watch?v=x9VQFjdYwjs)
