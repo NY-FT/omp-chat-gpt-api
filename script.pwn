@@ -1,9 +1,10 @@
 /**
- * Nunca usei samp-node, por isso optei pelo uso do `pawn-requests`.
+ * Pode ser feito com HTTP ou samp-node para fazer a conexão com a API.
+ * Optei pelo `pawn-requests` com uma include extra do pacote YSI "y_inline_requests".
  *
  * Credits:
  *    - Southclaws (https://github.com/Southclaws/pawn-requests).
- *    - Y-Less & Equip `y_inline_requests` (https://github.com/pawn-lang/YSI-Includes).
+ *    - Y-Less & Equip (https://github.com/pawn-lang/YSI-Includes).
  */
 
 #define MAX_PLAYERS (2)
